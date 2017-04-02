@@ -1,0 +1,11 @@
+c:\users\chankya\documents\visual studio 2015\Projects\pounds_Assignment4\pounds_Assignment4\bin\Debug\pounds_Assignment4.exe.config
+c:\users\chankya\documents\visual studio 2015\Projects\pounds_Assignment4\pounds_Assignment4\bin\Debug\pounds_Assignment4.exe
+c:\users\chankya\documents\visual studio 2015\Projects\pounds_Assignment4\pounds_Assignment4\bin\Debug\pounds_Assignment4.pdb
+c:\users\chankya\documents\visual studio 2015\Projects\pounds_Assignment4\pounds_Assignment4\obj\Debug\pounds_Assignment4.exe
+c:\users\chankya\documents\visual studio 2015\Projects\pounds_Assignment4\pounds_Assignment4\obj\Debug\pounds_Assignment4.pdb
+E:\chan\.net C#\assignment4\pounds_Assignment4\pounds_Assignment4\bin\Debug\pounds_Assignment4.exe.config
+E:\chan\.net C#\assignment4\pounds_Assignment4\pounds_Assignment4\obj\Debug\pounds_Assignment4.exe
+E:\chan\.net C#\assignment4\pounds_Assignment4\pounds_Assignment4\obj\Debug\pounds_Assignment4.pdb
+E:\chan\.net C#\assignment4\pounds_Assignment4\pounds_Assignment4\bin\Debug\pounds_Assignment4.exe
+E:\chan\.net C#\assignment4\pounds_Assignment4\pounds_Assignment4\bin\Debug\pounds_Assignment4.pdb
+E:\chan\.net C#\assignment4\pounds_Assignment4\pounds_Assignment4\obj\Debug\pounds_Assignment4.csprojResolveAssemblyReference.cache

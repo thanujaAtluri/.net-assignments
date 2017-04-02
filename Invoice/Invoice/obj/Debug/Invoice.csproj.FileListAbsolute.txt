@@ -1,0 +1,12 @@
+c:\users\chankya\documents\visual studio 2015\Projects\Invoice\Invoice\bin\Debug\Invoice.exe.config
+c:\users\chankya\documents\visual studio 2015\Projects\Invoice\Invoice\bin\Debug\Invoice.exe
+c:\users\chankya\documents\visual studio 2015\Projects\Invoice\Invoice\bin\Debug\Invoice.pdb
+c:\users\chankya\documents\visual studio 2015\Projects\Invoice\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+c:\users\chankya\documents\visual studio 2015\Projects\Invoice\Invoice\obj\Debug\Invoice.exe
+c:\users\chankya\documents\visual studio 2015\Projects\Invoice\Invoice\obj\Debug\Invoice.pdb
+E:\chan\3.net C#\Assignment_8\Invoice\Invoice\bin\Debug\Invoice.exe.config
+E:\chan\3.net C#\Assignment_8\Invoice\Invoice\obj\Debug\Invoice.exe
+E:\chan\3.net C#\Assignment_8\Invoice\Invoice\obj\Debug\Invoice.pdb
+E:\chan\3.net C#\Assignment_8\Invoice\Invoice\bin\Debug\Invoice.exe
+E:\chan\3.net C#\Assignment_8\Invoice\Invoice\bin\Debug\Invoice.pdb
+E:\chan\3.net C#\Assignment_8\Invoice\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache

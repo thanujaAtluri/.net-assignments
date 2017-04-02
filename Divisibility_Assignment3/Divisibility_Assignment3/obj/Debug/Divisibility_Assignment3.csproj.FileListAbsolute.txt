@@ -1,0 +1,9 @@
+c:\users\chankya\documents\visual studio 2015\Projects\Divisibility_Assignment3\Divisibility_Assignment3\bin\Debug\Divisibility_Assignment3.exe.config
+c:\users\chankya\documents\visual studio 2015\Projects\Divisibility_Assignment3\Divisibility_Assignment3\bin\Debug\Divisibility_Assignment3.exe
+c:\users\chankya\documents\visual studio 2015\Projects\Divisibility_Assignment3\Divisibility_Assignment3\bin\Debug\Divisibility_Assignment3.pdb
+c:\users\chankya\documents\visual studio 2015\Projects\Divisibility_Assignment3\Divisibility_Assignment3\obj\Debug\Divisibility_Assignment3.exe
+c:\users\chankya\documents\visual studio 2015\Projects\Divisibility_Assignment3\Divisibility_Assignment3\obj\Debug\Divisibility_Assignment3.pdb
+C:\Users\Chankya\Documents\Visual Studio 2015\Projects\Divisibility_Assignment3\Divisibility_Assignment3\obj\Debug\Divisibility_Assignment3.csprojResolveAssemblyReference.cache
+E:\chan\.net C#\Assignment3\Divisibility_Assignment3\Divisibility_Assignment3\bin\Debug\Divisibility_Assignment3.exe.config
+E:\chan\.net C#\Assignment3\Divisibility_Assignment3\Divisibility_Assignment3\obj\Debug\Divisibility_Assignment3.exe
+E:\chan\.net C#\Assignment3\Divisibility_Assignment3\Divisibility_Assignment3\obj\Debug\Divisibility_Assignment3.pdb

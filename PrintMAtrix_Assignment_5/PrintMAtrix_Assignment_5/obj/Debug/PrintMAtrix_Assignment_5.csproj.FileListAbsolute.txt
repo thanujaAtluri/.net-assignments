@@ -1,0 +1,6 @@
+c:\users\chankya\documents\visual studio 2015\Projects\PrintMAtrix_Assignment_5\PrintMAtrix_Assignment_5\bin\Debug\PrintMAtrix_Assignment_5.exe.config
+c:\users\chankya\documents\visual studio 2015\Projects\PrintMAtrix_Assignment_5\PrintMAtrix_Assignment_5\bin\Debug\PrintMAtrix_Assignment_5.exe
+c:\users\chankya\documents\visual studio 2015\Projects\PrintMAtrix_Assignment_5\PrintMAtrix_Assignment_5\bin\Debug\PrintMAtrix_Assignment_5.pdb
+c:\users\chankya\documents\visual studio 2015\Projects\PrintMAtrix_Assignment_5\PrintMAtrix_Assignment_5\obj\Debug\PrintMAtrix_Assignment_5.csprojResolveAssemblyReference.cache
+c:\users\chankya\documents\visual studio 2015\Projects\PrintMAtrix_Assignment_5\PrintMAtrix_Assignment_5\obj\Debug\PrintMAtrix_Assignment_5.exe
+c:\users\chankya\documents\visual studio 2015\Projects\PrintMAtrix_Assignment_5\PrintMAtrix_Assignment_5\obj\Debug\PrintMAtrix_Assignment_5.pdb

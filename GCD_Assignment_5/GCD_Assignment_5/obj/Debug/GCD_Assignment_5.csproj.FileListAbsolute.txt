@@ -1,0 +1,5 @@
+c:\users\chankya\documents\visual studio 2015\Projects\GCD_Assignment_5\GCD_Assignment_5\bin\Debug\GCD_Assignment_5.exe.config
+c:\users\chankya\documents\visual studio 2015\Projects\GCD_Assignment_5\GCD_Assignment_5\bin\Debug\GCD_Assignment_5.exe
+c:\users\chankya\documents\visual studio 2015\Projects\GCD_Assignment_5\GCD_Assignment_5\bin\Debug\GCD_Assignment_5.pdb
+c:\users\chankya\documents\visual studio 2015\Projects\GCD_Assignment_5\GCD_Assignment_5\obj\Debug\GCD_Assignment_5.exe
+c:\users\chankya\documents\visual studio 2015\Projects\GCD_Assignment_5\GCD_Assignment_5\obj\Debug\GCD_Assignment_5.pdb

@@ -1,0 +1,9 @@
+c:\users\chankya\documents\visual studio 2015\Projects\calculator_assignment\calculator_assignment\bin\Debug\calculator_assignment.exe.config
+c:\users\chankya\documents\visual studio 2015\Projects\calculator_assignment\calculator_assignment\bin\Debug\calculator_assignment.exe
+c:\users\chankya\documents\visual studio 2015\Projects\calculator_assignment\calculator_assignment\bin\Debug\calculator_assignment.pdb
+c:\users\chankya\documents\visual studio 2015\Projects\calculator_assignment\calculator_assignment\obj\Debug\calculator_assignment.csprojResolveAssemblyReference.cache
+c:\users\chankya\documents\visual studio 2015\Projects\calculator_assignment\calculator_assignment\obj\Debug\calculator_assignment.Form1.resources
+c:\users\chankya\documents\visual studio 2015\Projects\calculator_assignment\calculator_assignment\obj\Debug\calculator_assignment.Properties.Resources.resources
+c:\users\chankya\documents\visual studio 2015\Projects\calculator_assignment\calculator_assignment\obj\Debug\calculator_assignment.csproj.GenerateResource.Cache
+c:\users\chankya\documents\visual studio 2015\Projects\calculator_assignment\calculator_assignment\obj\Debug\calculator_assignment.exe
+c:\users\chankya\documents\visual studio 2015\Projects\calculator_assignment\calculator_assignment\obj\Debug\calculator_assignment.pdb

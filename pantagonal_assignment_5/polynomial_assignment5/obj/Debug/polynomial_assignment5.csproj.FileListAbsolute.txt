@@ -1,0 +1,9 @@
+c:\users\chankya\documents\visual studio 2015\Projects\polynomial_assignment5\polynomial_assignment5\bin\Debug\polynomial_assignment5.exe.config
+c:\users\chankya\documents\visual studio 2015\Projects\polynomial_assignment5\polynomial_assignment5\bin\Debug\polynomial_assignment5.exe
+c:\users\chankya\documents\visual studio 2015\Projects\polynomial_assignment5\polynomial_assignment5\bin\Debug\polynomial_assignment5.pdb
+c:\users\chankya\documents\visual studio 2015\Projects\polynomial_assignment5\polynomial_assignment5\obj\Debug\polynomial_assignment5.csprojResolveAssemblyReference.cache
+c:\users\chankya\documents\visual studio 2015\Projects\polynomial_assignment5\polynomial_assignment5\obj\Debug\polynomial_assignment5.exe
+c:\users\chankya\documents\visual studio 2015\Projects\polynomial_assignment5\polynomial_assignment5\obj\Debug\polynomial_assignment5.pdb
+E:\chan\.net C#\Assignment_5\polynomial_assignment5\polynomial_assignment5\bin\Debug\polynomial_assignment5.exe.config
+E:\chan\.net C#\Assignment_5\polynomial_assignment5\polynomial_assignment5\obj\Debug\polynomial_assignment5.exe
+E:\chan\.net C#\Assignment_5\polynomial_assignment5\polynomial_assignment5\obj\Debug\polynomial_assignment5.pdb

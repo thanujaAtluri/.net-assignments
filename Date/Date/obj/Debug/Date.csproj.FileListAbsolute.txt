@@ -1,0 +1,6 @@
+c:\users\chankya\documents\visual studio 2015\Projects\Date\Date\bin\Debug\Date.exe.config
+c:\users\chankya\documents\visual studio 2015\Projects\Date\Date\bin\Debug\Date.exe
+c:\users\chankya\documents\visual studio 2015\Projects\Date\Date\bin\Debug\Date.pdb
+c:\users\chankya\documents\visual studio 2015\Projects\Date\Date\obj\Debug\Date.csprojResolveAssemblyReference.cache
+c:\users\chankya\documents\visual studio 2015\Projects\Date\Date\obj\Debug\Date.exe
+c:\users\chankya\documents\visual studio 2015\Projects\Date\Date\obj\Debug\Date.pdb

@@ -1,0 +1,9 @@
+c:\users\chankya\documents\visual studio 2015\Projects\Random_colors\Random_colors\bin\Debug\Random_colors.exe.config
+c:\users\chankya\documents\visual studio 2015\Projects\Random_colors\Random_colors\bin\Debug\Random_colors.exe
+c:\users\chankya\documents\visual studio 2015\Projects\Random_colors\Random_colors\bin\Debug\Random_colors.pdb
+c:\users\chankya\documents\visual studio 2015\Projects\Random_colors\Random_colors\obj\Debug\Random_colors.csprojResolveAssemblyReference.cache
+c:\users\chankya\documents\visual studio 2015\Projects\Random_colors\Random_colors\obj\Debug\Random_colors.Form1.resources
+c:\users\chankya\documents\visual studio 2015\Projects\Random_colors\Random_colors\obj\Debug\Random_colors.Properties.Resources.resources
+c:\users\chankya\documents\visual studio 2015\Projects\Random_colors\Random_colors\obj\Debug\Random_colors.csproj.GenerateResource.Cache
+c:\users\chankya\documents\visual studio 2015\Projects\Random_colors\Random_colors\obj\Debug\Random_colors.exe
+c:\users\chankya\documents\visual studio 2015\Projects\Random_colors\Random_colors\obj\Debug\Random_colors.pdb

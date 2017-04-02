@@ -1,0 +1,9 @@
+c:\users\chankya\documents\visual studio 2015\Projects\employee\employee\bin\Debug\employee.exe.config
+c:\users\chankya\documents\visual studio 2015\Projects\employee\employee\bin\Debug\employee.exe
+c:\users\chankya\documents\visual studio 2015\Projects\employee\employee\bin\Debug\employee.pdb
+c:\users\chankya\documents\visual studio 2015\Projects\employee\employee\obj\Debug\employee.csprojResolveAssemblyReference.cache
+c:\users\chankya\documents\visual studio 2015\Projects\employee\employee\obj\Debug\employee.exe
+c:\users\chankya\documents\visual studio 2015\Projects\employee\employee\obj\Debug\employee.pdb
+E:\chan\3.net C#\Assignment_8\employee\employee\bin\Debug\employee.exe.config
+E:\chan\3.net C#\Assignment_8\employee\employee\obj\Debug\employee.exe
+E:\chan\3.net C#\Assignment_8\employee\employee\obj\Debug\employee.pdb

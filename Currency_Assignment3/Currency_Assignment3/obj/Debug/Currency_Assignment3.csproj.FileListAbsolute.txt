@@ -1,0 +1,15 @@
+c:\users\chankya\documents\visual studio 2015\Projects\Currency_Assignment3\Currency_Assignment3\bin\Debug\Currency_Assignment3.exe.config
+c:\users\chankya\documents\visual studio 2015\Projects\Currency_Assignment3\Currency_Assignment3\bin\Debug\Currency_Assignment3.exe
+c:\users\chankya\documents\visual studio 2015\Projects\Currency_Assignment3\Currency_Assignment3\bin\Debug\Currency_Assignment3.pdb
+c:\users\chankya\documents\visual studio 2015\Projects\Currency_Assignment3\Currency_Assignment3\obj\Debug\Currency_Assignment3.csprojResolveAssemblyReference.cache
+c:\users\chankya\documents\visual studio 2015\Projects\Currency_Assignment3\Currency_Assignment3\obj\Debug\Currency_Assignment3.exe
+c:\users\chankya\documents\visual studio 2015\Projects\Currency_Assignment3\Currency_Assignment3\obj\Debug\Currency_Assignment3.pdb
+E:\chan\.net C#\Assignment3\Currency_Assignment3\Currency_Assignment3\bin\Debug\Currency_Assignment3.exe.config
+E:\chan\.net C#\Assignment3\Currency_Assignment3\Currency_Assignment3\obj\Debug\Currency_Assignment3.exe
+E:\chan\.net C#\Assignment3\Currency_Assignment3\Currency_Assignment3\obj\Debug\Currency_Assignment3.pdb
+E:\chan\3.net C#\Assignment3\Currency_Assignment3\Currency_Assignment3\bin\Debug\Currency_Assignment3.exe.config
+E:\chan\3.net C#\Assignment3\Currency_Assignment3\Currency_Assignment3\obj\Debug\Currency_Assignment3.exe
+E:\chan\3.net C#\Assignment3\Currency_Assignment3\Currency_Assignment3\obj\Debug\Currency_Assignment3.pdb
+E:\chan\3.net C#\Assignment3\Currency_Assignment3\Currency_Assignment3\bin\Debug\Currency_Assignment3.exe
+E:\chan\3.net C#\Assignment3\Currency_Assignment3\Currency_Assignment3\bin\Debug\Currency_Assignment3.pdb
+E:\chan\3.net C#\Assignment3\Currency_Assignment3\Currency_Assignment3\obj\Debug\Currency_Assignment3.csprojResolveAssemblyReference.cache

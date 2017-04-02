@@ -1,0 +1,9 @@
+c:\users\chankya\documents\visual studio 2015\Projects\Notepad_assignment\Notepad_assignment\bin\Debug\Notepad_assignment.exe.config
+C:\Users\Chankya\Documents\Visual Studio 2015\Projects\Notepad_assignment\Notepad_assignment\bin\Debug\Notepad_assignment.exe
+C:\Users\Chankya\Documents\Visual Studio 2015\Projects\Notepad_assignment\Notepad_assignment\bin\Debug\Notepad_assignment.pdb
+C:\Users\Chankya\Documents\Visual Studio 2015\Projects\Notepad_assignment\Notepad_assignment\obj\Debug\Notepad_assignment.csprojResolveAssemblyReference.cache
+C:\Users\Chankya\Documents\Visual Studio 2015\Projects\Notepad_assignment\Notepad_assignment\obj\Debug\Notepad_assignment.Form1.resources
+C:\Users\Chankya\Documents\Visual Studio 2015\Projects\Notepad_assignment\Notepad_assignment\obj\Debug\Notepad_assignment.Properties.Resources.resources
+C:\Users\Chankya\Documents\Visual Studio 2015\Projects\Notepad_assignment\Notepad_assignment\obj\Debug\Notepad_assignment.csproj.GenerateResource.Cache
+C:\Users\Chankya\Documents\Visual Studio 2015\Projects\Notepad_assignment\Notepad_assignment\obj\Debug\Notepad_assignment.exe
+C:\Users\Chankya\Documents\Visual Studio 2015\Projects\Notepad_assignment\Notepad_assignment\obj\Debug\Notepad_assignment.pdb

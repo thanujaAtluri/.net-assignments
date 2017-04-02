@@ -1,0 +1,11 @@
+c:\users\chankya\documents\visual studio 2015\Projects\SumSeries_Assignment_5\SumSeries_Assignment_5\bin\Debug\SumSeries_Assignment_5.exe.config
+c:\users\chankya\documents\visual studio 2015\Projects\SumSeries_Assignment_5\SumSeries_Assignment_5\bin\Debug\SumSeries_Assignment_5.exe
+c:\users\chankya\documents\visual studio 2015\Projects\SumSeries_Assignment_5\SumSeries_Assignment_5\bin\Debug\SumSeries_Assignment_5.pdb
+c:\users\chankya\documents\visual studio 2015\Projects\SumSeries_Assignment_5\SumSeries_Assignment_5\obj\Debug\SumSeries_Assignment_5.exe
+c:\users\chankya\documents\visual studio 2015\Projects\SumSeries_Assignment_5\SumSeries_Assignment_5\obj\Debug\SumSeries_Assignment_5.pdb
+E:\chan\3.net C#\Assignment_5\SumSeries_Assignment_5\SumSeries_Assignment_5\bin\Debug\SumSeries_Assignment_5.exe.config
+E:\chan\3.net C#\Assignment_5\SumSeries_Assignment_5\SumSeries_Assignment_5\bin\Debug\SumSeries_Assignment_5.exe
+E:\chan\3.net C#\Assignment_5\SumSeries_Assignment_5\SumSeries_Assignment_5\bin\Debug\SumSeries_Assignment_5.pdb
+E:\chan\3.net C#\Assignment_5\SumSeries_Assignment_5\SumSeries_Assignment_5\obj\Debug\SumSeries_Assignment_5.csprojResolveAssemblyReference.cache
+E:\chan\3.net C#\Assignment_5\SumSeries_Assignment_5\SumSeries_Assignment_5\obj\Debug\SumSeries_Assignment_5.exe
+E:\chan\3.net C#\Assignment_5\SumSeries_Assignment_5\SumSeries_Assignment_5\obj\Debug\SumSeries_Assignment_5.pdb

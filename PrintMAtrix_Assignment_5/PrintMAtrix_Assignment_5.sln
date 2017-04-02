@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintMAtrix_Assignment_5", "PrintMAtrix_Assignment_5\PrintMAtrix_Assignment_5.csproj", "{14927FA4-C23D-4FB2-BA82-57E32DF54521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14927FA4-C23D-4FB2-BA82-57E32DF54521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14927FA4-C23D-4FB2-BA82-57E32DF54521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14927FA4-C23D-4FB2-BA82-57E32DF54521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14927FA4-C23D-4FB2-BA82-57E32DF54521}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
